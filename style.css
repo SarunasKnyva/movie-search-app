@@ -40,6 +40,7 @@ body {
 }
 section {
   display: flex;
+
   overflow-x: auto;
   overflow-y: hidden;
 }
@@ -57,7 +58,6 @@ img:hover {
 }
 
 .content {
-  border: 1px solid lightgray;
   padding: 20px;
   display: none;
 }
